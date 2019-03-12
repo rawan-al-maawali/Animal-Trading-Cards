@@ -1,0 +1,39 @@
+#italicized{
+  font-style: italic;
+}
+.bold{
+  font-weight: bold;
+}
+ul{
+  list-style: none;
+  padding:0px;
+}
+#outer_box{
+  width:316px;
+  border:7px solid gray;
+  border-style: double;
+  border-radius: 30px;
+  padding:10px;
+  margin:5px;
+  box-shadow:15px 15px 10px hsl(0,0%,85%);
+  background-image:linear-gradient( #cccccc,#99ccff,white);
+}
+#info_box{
+  width:280px;
+  border:3px solid gray;
+  padding:10px;
+  margin:5px;
+}
+#image{
+  margin:5px;
+  border:3px solid gray;
+  width:300px;
+}
+#title{
+  text-align: center;
+  font: bold 20pt acme,sans-serif;
+  margin:4px;
+}
+.font{
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
